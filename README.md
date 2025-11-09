@@ -1,1 +1,1 @@
-<strong>JavaScript DOM Manipulation and Events</strong> - freecodecamp-exercices-JS-0066-Build-a-Set-of-Football-Team-Cards - Exercice à terminer
+<strong>JavaScript DOM Manipulation and Events</strong> - freecodecamp-exercices-JS-0066-Build-a-Set-of-Football-Team-Cards - https://baouzjulien82.github.io/freecodecamp-exercices-JS-0066-Build-a-Set-of-Football-Team-Cards/
